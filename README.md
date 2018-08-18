@@ -1,4 +1,4 @@
-# erc20-contract
+# Vue + Bootstrap template
 
 > Vue + Bootstrap template
 
