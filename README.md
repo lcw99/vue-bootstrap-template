@@ -1,6 +1,6 @@
 # erc20-contract
 
-> erc20 contract manager
+> Vue + Bootstrap template
 
 ## Build Setup
 
